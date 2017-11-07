@@ -1,4 +1,4 @@
-## NavViewEx is an extension of the XAML `NavigationView` control introduced in Fall Creator's Update
+## NavViewEx is an extension of the XAML `NavigationView` control introduced in Fall Creator's Update as discussed in MSDN Magazine, December 2017
 
 ```
     public class NavViewEx : NavigationView
